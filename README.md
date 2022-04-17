@@ -1,4 +1,4 @@
-Founder of ihsan101.com, Self-taught developer👨🏻‍💻, cinephile🎞️ and food lover😋
+Self-taught developer👨🏻‍💻, cinephile🎞️ and food lover😋
 <!-- - 👋 Hi, I’m @escaper01
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning web development
