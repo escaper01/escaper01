@@ -7,7 +7,7 @@ Self taught developer • Co-founder @ TransitFresh
 I'm a self-taught developer, passionate about anything related to technology, and love helping others in debugging their technical problems. I made my way from basics programs to end-to-end projects sequentially through extensive courses (YouTube, DataCamp, FrontendMasters ...). Learning new things is a priority that makes me a better version of myself.
 
 * 🚀  Co-founder of [transitfresh.com](https://transitfresh.com)
-* 🌱  Ex-founder of [ihsan101.com](https://ihsan101.com)
+* 🌱  Ex-founder of [ihsan101.com](https://www.youtube.com/@ihsan1015)
 * ✉️  You can contact me at [assaoui54@gmail.com](mailto:assaoui54@gmail.com)
 * 🧠  I'm learning anything that would make from me a better version of myself
 * 🤝  I'm open to collaborating on community service projects
