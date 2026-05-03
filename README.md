@@ -72,5 +72,7 @@ src="https://img.shields.io/github/followers/escaper01?logo=github&style=for-the
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=escaper01&show_icons=true&theme=radical)
+<br>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=escaper01&theme=radical)
+<br>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=escaper01&layout=compact&theme=radical)
