@@ -71,10 +71,6 @@ src="https://img.shields.io/github/followers/escaper01?logo=github&style=for-the
 
 ### GitHub Stats
 
-<p align="left">
-<a href="https://github.com/escaper01"><img src="https://img.shields.io/github/followers/escaper01?style=for-the-badge&logo=github&label=Followers&color=6366f1&labelColor=ffffff" alt="Followers" /></a>
-<a href="https://github.com/escaper01?tab=repositories"><img src="https://img.shields.io/github/stars/escaper01?style=for-the-badge&logo=github&label=Stars&color=3382ed&labelColor=ffffff" alt="Stars" /></a>
-<img src="https://komarev.com/ghpvc/?username=escaper01&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<a href="http://www.github.com/escaper01"><img src="https://streak-stats.demolab.com/?user=escaper01&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" alt="GitHub Streak" /></a>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=escaper01&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=escaper01&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=escaper01&layout=compact&theme=radical)
